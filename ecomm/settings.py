@@ -1,6 +1,6 @@
 
 import os
-import django_heroku
+import django-heroku
 import dj_database_url
 from decouple import config
 from django.contrib.messages import constants as messages
